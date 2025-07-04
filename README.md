@@ -1,2 +1,2 @@
 # MLOps Zoomcamp
-This is my first MLOps Zoomcamp project!
+Assignment 01 of mlops-zoomcamp
